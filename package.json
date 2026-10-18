@@ -1,0 +1,2 @@
+{"name":"scholarshipmatch-root","private":true,"type":"module","scripts":{"vercel-build":"cd frontend && npm install && npm run build","dev:backend":"cd backend && npm run dev","dev:frontend":"cd frontend && npm run dev"},
+"dependencies":{"cors":"^2.8.5","dotenv":"^16.4.5","express":"^4.19.2"}}

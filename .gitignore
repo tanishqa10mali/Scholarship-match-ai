@@ -1,0 +1,25 @@
+node_modules
+.env
+.env.*
+!.env.example
+dist
+build
+.vercel
+
+# Dependencies
+node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Build outputs
+dist/
+build/
+
+# Vercel
+.vercel/
+
+# Operating system files
+.DS_Store
